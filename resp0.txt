@@ -1,0 +1,12 @@
+    1  Desktop
+    2  cd Desktop
+    3  git clone https://github.com/IgnacioInfanteRiba/L0.git
+    4  cd L0
+    5  git add *
+    6  git commit -m "Subiendo L0"
+    7  git push
+    8  git push
+    9  git push
+   10  git pull
+   11  doskey /History
+   12  history
